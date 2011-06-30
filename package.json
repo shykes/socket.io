@@ -1,0 +1,12 @@
+{
+  "name": "helloapp",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": ">= 2.4.0",
+    "jade": ">= 0.12.4",
+    "socket.io": ">= 0.7.2",
+    "stylus": ">= 0.13.3",
+    "nib": ">= 0.0.8"
+  }
+}
